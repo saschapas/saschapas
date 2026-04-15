@@ -36,4 +36,4 @@ I try to frequently upload all I got and want to show but it takes some time to 
 **Note:**  
 I don't uppload full projects here. Especially the code I wrote with others I only upload mostly mine,  
 and for projects based on DockerHubs/other repos I will only display my modifications.  
-All that is mentioned in the respective Readme :)
+All that is mentioned in the ReadMe of the respective projects :)
